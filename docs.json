@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Directory",
+            "pages": [
+              "directory/add-password-user"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
